@@ -1,5 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
+
 Name : Aditaayan M
+
 Roll no : 212223040006
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
